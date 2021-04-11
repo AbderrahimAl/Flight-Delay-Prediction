@@ -1,4 +1,4 @@
-# Flight Delay Prediction Challenge [...](https://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2)
+# Flight Delay Prediction [...](https://zindi.africa/competitions/ai-tunisia-hack-5-predictive-analytics-challenge-2)
  !["image"](https://zindpublic.blob.core.windows.net/public/uploads/competition/image/31/thumb_4d7026c0-6938-4a9d-a127-a420ac94603c.jpeg)
 
 
